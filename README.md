@@ -1,4 +1,4 @@
-# Hi 👋 I'm Wendel
+# Hello World 👋 Eu sou Wendel
 
 ##Tecn
 
