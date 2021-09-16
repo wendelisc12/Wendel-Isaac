@@ -1,6 +1,6 @@
 # Hello World 👋 Eu sou Wendel
 
-Tenho 18 anos e sou estudante de análise e desenvolvimento de sistemas no IFPE, atualmente progamador Front-End apaixonado em design de interfaces, e um futuro progamador full-stack. Domino HTML, CSS, Python e aprendendo Javascript, Java e SQLite
+Tenho 18 anos e sou estudante de análise e desenvolvimento de sistemas no IFPE, atualmente progamador Front-End apaixonado em design de interfaces, e um futuro progamador Web senior.
 
 <h1>Tecnologias e ferramentas</h1>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
