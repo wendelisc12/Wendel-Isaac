@@ -1,5 +1,7 @@
 # Eai 👋 Eu sou o Wendel!
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wendel-isc)
+
 <img align="right" height="200" width="280" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 Estou no último período de Análise e desenvolvimento de sistemas no IFPE🎓 Sou uma pessoa que ama aprender coisas novas e tento fazer isso todos os dias💡 Sou apaixonado em interfaces web e no desenvolvimento delas👨🏻‍💻 Sou um programador Front-end e atualmente trabalho na área como estagiário!🤓 Atualmente estou estudando para me especializar em react js !
 
@@ -17,9 +19,11 @@ Estou no último período de Análise e desenvolvimento de sistemas no IFPE🎓 
 <hr>
 
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
 
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendelisc12&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendelisc12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendelisc12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendelisc12&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
 
