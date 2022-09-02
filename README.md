@@ -1,6 +1,4 @@
-#Opa 👋, Eu sou Wendel
-
-<!-- # Hello World 👋 Eu sou Wendel
+# Eai 👋 Eu sou Wendel!
 
 Tenho 18 anos e sou estudante de análise e desenvolvimento de sistemas no IFPE, atualmente progamador Front-End apaixonado em design de interfaces, e um futuro progamador Web senior.
 
@@ -19,4 +17,4 @@ Tenho 18 anos e sou estudante de análise e desenvolvimento de sistemas no IFPE,
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wendelisc12&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendelisc12&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
