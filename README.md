@@ -3,7 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wendel-isc)
 
 <img align="right" height="200" width="280" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-Estou cursando um último semestre [exclusivo para meu TCC] de Análise e desenvolvimento de sistemas no IFPE🎓 Sou uma pessoa que ama aprender coisas novas e tento fazer isso todos os dias💡 Sou apaixonado em interfaces web e no desenvolvimento delas👨🏻‍💻 Sou um programador Front-end e atualmente trabalho na área como estagiário na empresa KIFE!🤓 Atualmente estudando e me especializando em REACTJS !
 
 .
 
