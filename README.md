@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/wendel-isc)
 
 
-.
+Sou graduando em análise e desenvolvimento de sistemas, atualmente estou realizando pesquisas na área de front-end. Sou um desenvolvedor react apaixonado na criação de interfaces web, ao longo dos anos da minha graduação adquiri experiências com Javascript, java, html, css, Node e React.
 
 [![](https://gitwar.herokuapp.com/badge?username=wendelisc12&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 <hr>
