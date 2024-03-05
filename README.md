@@ -8,7 +8,7 @@ Desenvolvedor front end
   "linguagens": ["JavaScript", "Typescript", "Java"],
   "frameworks": ["React", "Next.js", "Angular"]
 }
-
+```
 ## Estatísticas do GitHub
 
 <div style="display:flex">
