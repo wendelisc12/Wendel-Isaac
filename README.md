@@ -20,6 +20,10 @@
       "Less",
       "Node"
     ],
+    "Metodologias":[
+      "SMACSS",
+      "BEM"
+    ],
     "Ferramentas de Desenvolvimento": [
       "Git",
       "Gulp",
