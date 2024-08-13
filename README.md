@@ -15,6 +15,9 @@
     "Tecnologias": [
       "HTML",
       "CSS",
+      "Redux",
+      "Redux Toolkit Query",
+      "Styled Components",
       "Bootstrap",
       "Sass",
       "Less",
@@ -27,7 +30,9 @@
     "Ferramentas de Desenvolvimento": [
       "Git",
       "Gulp",
-      "Grunt"
+      "Grunt",
+      "Prettier",
+      "ESlint"
     ]
   }
 }
